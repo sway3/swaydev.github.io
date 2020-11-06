@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://swaydev.github.io"
+url: "https://sway3.github.io"
 remote_theme : sylhare/Type-on-Strap
 
 # THEME-SPECIFIC CONFIGURATION
